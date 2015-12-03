@@ -38,10 +38,9 @@ package com.toy.anagrams.lib;
  * Implementation of the logic for the Anagram Game application.
  */
 final class StaticWordLibrary extends WordLibrary {
-//Le hemos añadido 2 ss al final del abstraction
-    //La primera palabra a adivinar es "aprobado"
+
     private static final String[] WORD_LIST = {
-        "aprobado",
+        "abstractionss",
         "ambiguous",
         "arithmetic",
         "backslash",
