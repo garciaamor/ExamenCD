@@ -39,8 +39,9 @@ package com.toy.anagrams.lib;
  */
 final class StaticWordLibrary extends WordLibrary {
 //Le hemos añadido 2 ss al final del abstraction
+    //La primera palabra a adivinar es "aprobado"
     private static final String[] WORD_LIST = {
-        "abstractionss",
+        "aprobado",
         "ambiguous",
         "arithmetic",
         "backslash",
